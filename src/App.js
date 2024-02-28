@@ -10,7 +10,7 @@ const App = () => {
     pronoun: 0,
     avgReadTime: 0,
     shortestWord: "-",
-    longestWord: "-",
+    longestWord: "-", 
   });
 
   const findPronounWord = (text) => {
